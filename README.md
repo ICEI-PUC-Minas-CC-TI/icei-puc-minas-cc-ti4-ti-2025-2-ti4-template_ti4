@@ -1,6 +1,5 @@
-# 📱 [Nome do Aplicativo]
+# 📱 [Numero do Grupo] - [Nome do Aplicativo]
 
-[![Status do Build](https://github.com/user/repo/actions/workflows/main.yml/badge.svg)](https://github.com/user/repo/actions/workflows/main.yml)
 [![Licença](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Flutter Version](https://img.shields.io/badge/Flutter-3.x.x-blue)](https://flutter.dev/)
 
@@ -9,6 +8,7 @@
 Este repositório está organizado da seguinte forma:
 - **/codigo**: Contém todo o código-fonte do aplicativo Flutter.
 - **/documentation**: Contém toda a documentação de planejamento e arquitetura do projeto.
+- **citation.cff**: Arquivo citation.cff
 
 ## ✨ Principais Funcionalidades
 
